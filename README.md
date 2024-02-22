@@ -1,4 +1,4 @@
-# Recording Webcam - Camera App for android TV, Android Phone
+# Recording Webcam - Camera App for Android TV, Android Phone
 
 ##### Technical internship project at VNPT Technology company by student Nguyen Thanh Chung - School of Electrical and Electronic Engineering of Hanoi University of Science and Technology.
 
@@ -8,7 +8,7 @@
 
 ## About
 
-Recording - Camera app for capture or record video and upload file to server.
+Recording Webcam - Camera app for capturing or recording video and uploading files to the server.
 
 __Available Function__
 
@@ -16,7 +16,7 @@ __Available Function__
 |------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | `Capture`  | Take photos with an existing camera, change the camera used, turn the flash on and off, and change photo quality                      |
 | `Recoring` | Record video with an existing camera, change the camera used, turn the flash on and off, and change the quality of the recorded video |
-| `Upload`   | Send photos or videos to the server via url                                                                                           |
+| `Upload`   | Send photos or videos to the server via URL                                                                                           |
 
 ## Screenshots
 
