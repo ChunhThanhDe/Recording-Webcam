@@ -8,7 +8,13 @@
 
 ## About
 
-Recording Webcam - Camera app for capturing or recording video and uploading files to the server.
+<div style="display: flex; justify-content: center;">
+  <div style="border-radius: 20px; overflow: hidden; padding-bottom: 10px;">
+    <img src="media/Recording_Webcam.png" style="max-height: 300px;">
+  </div>
+</div>
+
+<p align="center"><strong>Recording Webcam - Camera app for capturing or recording video and uploading files to the server.</strong></p>
 
 __Available Function__
 
@@ -22,12 +28,19 @@ __Available Function__
 
 __Available Screen__
 
-| Case                | Screenshot                                                              |
-|---------------------|-------------------------------------------------------------------------|
-| *`Capture Screen`*    | <img src="media/screenshots/image.png" style="max-height: 150px;">      |
-| *`View Image Screen`* | <img src="media/screenshots/photo.png" style="max-height: 150px;">      |
-| *`Recording Screen`*  | <img src="media/screenshots/record.png" style="max-height: 150px;">     |
-| *`Change Resolution`* | <img src="media/screenshots/resolution.png" style="max-height: 150px;"> |
-| *`View Video Screen`* | <img src="media/screenshots/video.png" style="max-height: 150px;">      |
-| *`Upload to Server`*  | <img src="media/screenshots/upload.png" style="max-height: 150px;">     |
+|                        _Capture Screen_                        |                        _View Image Screen_                        |
+| :-------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+| ![Capture Screen](media/screenshots/image.png) | ![View Image Screen](media/screenshots/photo.png) |
 
+|                        _Recording Screen_                        |                        _View Video Screen_                        |
+| :-------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+| ![Recording Screen](media/screenshots/record.png) | ![View Video Screen](media/screenshots/video.png) |
+
+<details>
+  <summary> Show more </summary>
+  
+|                        _Change Resolution_                        |                        _Upload to Server_                        |
+| :-------------------------------------------------------------------: | :-------------------------------------------------------------------: |
+| ![Change Resolution](media/screenshots/resolution.png) | ![Upload to Server](media/screenshots/upload.png) |
+
+</details>
