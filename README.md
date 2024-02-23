@@ -24,8 +24,8 @@ __Available Screen__
 
 | Case                | Screenshot                                                              |
 |---------------------|-------------------------------------------------------------------------|
-| *`Capture Screen`*    | <img src="media/screenshots/image.png" style="max-height: 250;">      |
-| *`View Image Screen`* | <img src="media/screenshots/photo.png" style="max-height: 250;">      |
+| *`Capture Screen`*    | <img src="media/screenshots/image.png" style="max-height: 250px;">      |
+| *`View Image Screen`* | <img src="media/screenshots/photo.png" style="max-height: 250px;">      |
 | *`Recording Screen`*  | <img src="media/screenshots/record.png" style="max-height: 250px;">     |
 | *`Change Resolution`* | <img src="media/screenshots/resolution.png" style="max-height: 250px;"> |
 | *`View Video Screen`* | <img src="media/screenshots/video.png" style="max-height: 250px;">      |
