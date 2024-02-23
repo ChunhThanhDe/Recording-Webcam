@@ -24,10 +24,10 @@ __Available Screen__
 
 | Case                | Screenshot                                                              |
 |---------------------|-------------------------------------------------------------------------|
-| `Capture Screen`    | <img src="media/screenshots/image.png" style="max-height: 300px;">      |
-| `View Image Screen` | <img src="media/screenshots/photo.png" style="max-height: 300px;">      |
-| `Recording Screen`  | <img src="media/screenshots/record.png" style="max-height: 300px;">     |
-| `Change Resolution` | <img src="media/screenshots/resolution.png" style="max-height: 300px;"> |
-| `View Video Screen` | <img src="media/screenshots/video.png" style="max-height: 300px;">      |
-| `Upload to Server`  | <img src="media/screenshots/upload.png" style="max-height: 300px;">     |
+| *`Capture Screen`*    | <img src="media/screenshots/image.png" style="max-height: 250;">      |
+| *`View Image Screen`* | <img src="media/screenshots/photo.png" style="max-height: 250;">      |
+| *`Recording Screen`*  | <img src="media/screenshots/record.png" style="max-height: 250px;">     |
+| *`Change Resolution`* | <img src="media/screenshots/resolution.png" style="max-height: 250px;"> |
+| *`View Video Screen`* | <img src="media/screenshots/video.png" style="max-height: 250px;">      |
+| *`Upload to Server`*  | <img src="media/screenshots/upload.png" style="max-height: 250px;">     |
 
